@@ -20,7 +20,7 @@ namespace API.Controllers
         [HttpGet]
         public string GetUrl()
         {
-            return "https://www.youtube.com"; 
+            return "https://github.com/josedarochaluft/Desafio.NET"; 
         }
     }
 
